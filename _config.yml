@@ -46,30 +46,30 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Birth Place:
+        title: Birth Place
         sub_title: Daytona Beach, FL
 
       - layout: left
-        title: Birth Date:
+        title: Birth Date
         sub_title: November 23, 1993
 
   - title: Birth # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Height:
+        title: Height
         sub_title: 6ft 0in
 
       - layout: left
-        title: Weight:
+        title: Weight
         sub_title: 170 lbs
 
       - layout: left
-        title: Hometown:
+        title: Hometown
         sub_title: Knoxville, TN
 
       - layout: left
-        title: Residing in:
+        title: Residing in
         sub_title: Atlanta, GA
 
   - title: Family # Title for the section
