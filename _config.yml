@@ -42,45 +42,45 @@ content:
   - title: Birth # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: Birth Place
         sub_title: Daytona Beach, FL
 
-      - layout: left
+      - layout: center
         title: Birth Date
         sub_title: November 23, 1993
 
   - title: Birth # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: Height
         sub_title: 6ft 0in
 
-      - layout: left
+      - layout: center
         title: Weight
         sub_title: 170 lbs
 
-      - layout: left
+      - layout: center
         title: Hometown
         sub_title: Knoxville, TN
 
-      - layout: left
+      - layout: center
         title: Residing in
         sub_title: Atlanta, GA
 
   - title: Family # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: Father
         sub_title: Kishor J. Tailor
 
-      - layout: left
+      - layout: center
         title: Mother
         sub_title: Beena K. Tailor
 
-      - layout: left
+      - layout: center
         title: Brother
         sub_title: Kishan K. Tailor
         caption: MSc Computer Science Candidate - Cornell Tech
@@ -88,11 +88,11 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: Georgia Institute of Technology
         caption: 2015 - 2017
         sub_title: MSc Computer Science
-      - layout: left
+      - layout: center
         title: University of Tennessee Knoxville
         caption: 2011 - 2015
         sub_title: BSc Electrical Engineering
