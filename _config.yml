@@ -8,7 +8,6 @@ version: 2
 # Personal info
 name: Chirag Tailor
 email: chiragktailor@gmail.com
-website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -16,16 +15,8 @@ darkmode: true
 # Social links
 twitter_username: tailorck
 github_username: tailorck
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: ctailor
 linkedin_username: ctailor
-# xing_username: jekyll
-# pinterest_username: jekyll
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
