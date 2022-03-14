@@ -102,10 +102,10 @@ content:
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+    content: Some of my other interests and hobbies are:
       - Baking
-      - Running & Fitness
+      - Running 
+      - Fitness
       - Piano
 
 # Footer
