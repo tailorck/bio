@@ -99,7 +99,8 @@ content:
 
   - title: A Little More About Me
     layout: text
-    content: Some of my other interests and hobbies are:
+    content: |
+      Some of my other interests and hobbies are:
       - Baking
       - Running 
       - Fitness
