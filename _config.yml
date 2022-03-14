@@ -7,14 +7,13 @@ version: 2
 
 # Personal info
 name: Chirag Tailor
-email: chiragktailor@gmail.com
+# email: chiragktailor@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
 twitter_username: tailorck
-github_username: tailorck
 instagram_username: ctailor
 linkedin_username: ctailor
 
@@ -36,10 +35,8 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Chirag.
-
-  I am most skilled in: <mark>Baking</mark> and <mark>Eating Pizza</mark>
+# about_content: | # this will include new lines to allow paragraphs
+#   Hi, I am Chirag.
 
 content:
   - title: Birth # Title for the section
