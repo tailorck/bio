@@ -1,5 +1,5 @@
 # Site
-repository: tailorck/resume-theme
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -111,7 +111,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: tailorck/resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
