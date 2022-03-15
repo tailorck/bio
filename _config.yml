@@ -34,7 +34,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/longvue.jpg
 # about_content: | # this will include new lines to allow paragraphs
 #   Hi, I am Chirag.
 
@@ -55,7 +55,7 @@ content:
     content:
       - layout: top-middle
         title: Height
-        sub_title: 6ft 0in
+        sub_title: 6'0"
 
       - layout: top-middle
         title: Weight
@@ -75,10 +75,12 @@ content:
       - layout: top-middle
         title: Father
         sub_title: Kishor J. Tailor
+        caption: Knoxville, TN / Dhamdachha, GJ
 
       - layout: top-middle
         title: Mother
         sub_title: Beena K. Tailor
+        caption: Knoxville, TN / Vadodara, GJ
 
       - layout: top-middle
         title: Brother
@@ -101,10 +103,10 @@ content:
     layout: text
     content: |
       Some of my other interests and hobbies are:
-      - Baking
-      - Running 
-      - Fitness
+      - Running & Fitness
+      - Podcasts
       - Piano
+      - Baking
 
 # Footer
 footer_show_references: true
