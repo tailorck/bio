@@ -59,7 +59,7 @@ content:
         title: Birth Date
         sub_title: November 23, 1993
 
-  - title: Birth # Title for the section
+  - title: Bio # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -94,7 +94,15 @@ content:
       - layout: top-middle
         title: Brother
         sub_title: Kishan K. Tailor
-        caption: MSc Computer Science Candidate - Cornell Tech
+        caption: MSc Computer Science Candidate
+
+  - title: Career # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Senior Software Engineer
+        caption: 2021-Present
+        sub_title: Twitter, Inc.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
