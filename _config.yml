@@ -43,6 +43,8 @@ about_profile_images:
     path: images/me_and_parth.jpg
   - title: Milan
     path: images/me_and_milan.jpg
+  - title: Ronin
+    path: images/with_ronin.jpg
 
 # about_content: | # this will include new lines to allow paragraphs
 #   Hi, I am Chirag.
