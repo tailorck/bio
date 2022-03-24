@@ -35,14 +35,14 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_images:
+  - title: Ronin
+    path: images/me_and_ronin.png
   - title: Longvue
     path: images/longvue.jpg
   - title: Greener
     path: images/greener.jpg
   - title: Parth
     path: images/me_and_parth.jpg
-  - title: Ronin
-    path: images/roning.jpg
   - title: Priyanka
     path: images/priyanka.jpg
 
