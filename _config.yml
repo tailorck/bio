@@ -41,8 +41,10 @@ about_profile_images:
     path: images/greener.jpg
   - title: Parth
     path: images/me_and_parth.jpg
-  - title: Milan
-    path: images/me_and_milan.jpg
+  - title: Ronin
+    path: images/roning.jpg
+  - title: Priyanka
+    path: images/priyanka.jpg
 
 # about_content: | # this will include new lines to allow paragraphs
 #   Hi, I am Chirag.
