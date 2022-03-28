@@ -35,6 +35,8 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_images:
+  - title: Skyline
+    path: images/skyline.jpg
   - title: Longvue
     path: images/longvue.jpg
   - title: Greener
