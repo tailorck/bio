@@ -13,7 +13,6 @@ name: Chirag Tailor
 darkmode: true
 
 # Social links
-twitter_username: tailorck
 instagram_username: ctailor
 linkedin_username: ctailor
 
@@ -35,16 +34,16 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_images:
+  - title: Derby
+    path: images/derby.jpg
   - title: Fire Wave
     path: images/fire_wave.png
-  - title: Longvue
-    path: images/longvue.jpg
   - title: Greener
     path: images/greener.jpg
   - title: Parth
-    path: images/me_and_parth.jpg
-  - title: Amer
-    path: images/amer.jpg
+    path: images/parth.jpg
+  - title: SkiMobile
+    path: images/skimobile.jpg
 
 # about_content: | # this will include new lines to allow paragraphs
 #   Hi, I am Chirag.
@@ -66,7 +65,7 @@ content:
     content:
       - layout: top-middle
         title: Height
-        sub_title: 6'0"
+        sub_title: 5'11"
 
       - layout: top-middle
         title: Weight
@@ -96,15 +95,13 @@ content:
       - layout: top-middle
         title: Brother
         sub_title: Kishan K. Tailor
-        caption: MSc Computer Science Candidate
 
   - title: Career # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Senior Software Engineer
-        caption: 2021-Present
-        sub_title: Twitter, Inc.
+        sub_title: Ledger Investing
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -122,7 +119,7 @@ content:
     layout: text
     content: |
       Some of my other interests and hobbies are:
-      - Running & Fitness
+      - Fitness
       - Podcasts
       - Piano
       - Baking
