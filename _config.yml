@@ -100,8 +100,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: CEO & Co-Founder
-        sub_title: AssignGuard
+        title: Senior Software Engineer
+        sub_title: Ledger Investing
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
