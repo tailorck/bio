@@ -44,6 +44,10 @@ about_profile_images:
     path: images/ronin.png
   - title: SkiMobile
     path: images/skimobile.jpg
+  - title: Tibidabo
+    path: images/tibidabo.jpg
+  - title: Louvre
+    path: images/louvre.jpg
 
 # about_content: | # this will include new lines to allow paragraphs
 #   Hi, I am Chirag.
@@ -69,7 +73,7 @@ content:
 
       - layout: top-middle
         title: Weight
-        sub_title: 170 lbs
+        sub_title: 180 lbs
 
       - layout: top-middle
         title: Hometown
@@ -100,8 +104,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: CEO & Co-Founder
+        sub_title: Instructify.ai
+      - layout: top-middle
         title: Senior Software Engineer
-        sub_title: Ledger Investing
+        sub_title: Tekmetric
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
